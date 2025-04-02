@@ -4,7 +4,7 @@
  * 
  * This program turns a servo 90 degrees, once within 50cm of an object
  * 
-*/
+ */
 
 # include <Servo.h>
 
