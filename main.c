@@ -2,7 +2,7 @@
  * Created by: Daki
  * Created on: Apr 2025
  * 
- * This program turns a servo 90 degrees, once within 50cm of an object
+ * This program turns a servo 180 degrees, once within 50cm of an object
  * 
  */
 
